@@ -1,0 +1,11 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+First of all, the basic structure of the code was available.
+
+So, we were able to find out quickly where the changes occured as most of the code will be same as the previous version.
+
+By spotting the anomalies of the structure of code in both the versions, it gives us a broader view as to which part actually is contributing towards the change.
+
+How Could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+Once again, i would quote the same thing, having access to the previous structure provides us with the ground work that the program has been built upon and we get a headstart to troubleshoot the errors and carry out the upgradation task.
